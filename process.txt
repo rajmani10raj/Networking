@@ -1,0 +1,2 @@
+Write two programs: one called client.c, the other called server.c. The client program lists
+a prompter and reads from the keyboard two integers and one of the characters

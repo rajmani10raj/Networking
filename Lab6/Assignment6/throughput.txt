@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Server listening on TCP port 5111
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.1 port 5111 connected with 10.0.0.2 port 53476
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 2.0 sec  10.9 GBytes  46.9 Gbits/sec
+[  4]  2.0- 4.0 sec  10.8 GBytes  46.3 Gbits/sec
+[  4]  4.0- 6.0 sec  11.8 GBytes  50.8 Gbits/sec
+[  4]  6.0- 8.0 sec  8.37 GBytes  36.0 Gbits/sec
+[  4]  8.0-10.0 sec  8.77 GBytes  37.7 Gbits/sec
+[  4] 10.0-12.0 sec  10.2 GBytes  43.7 Gbits/sec
+[  4] 12.0-14.0 sec  11.2 GBytes  48.1 Gbits/sec
+[  4] 14.0-16.0 sec  10.7 GBytes  46.0 Gbits/sec
+[  4] 16.0-18.0 sec  8.62 GBytes  37.0 Gbits/sec
+[  4] 18.0-20.0 sec  9.80 GBytes  42.1 Gbits/sec
+[  4]  0.0-20.0 sec   101 GBytes  43.4 Gbits/sec
